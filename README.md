@@ -1,4 +1,0 @@
-# ZHAZHAJC
-WELCOME
-hello
-hi
